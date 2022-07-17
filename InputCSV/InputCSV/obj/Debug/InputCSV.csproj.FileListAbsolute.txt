@@ -1,0 +1,11 @@
+D:\ST_C_ sharp\InputCSV\InputCSV\obj\Debug\InputCSV.csproj.AssemblyReference.cache
+D:\ST_C_ sharp\InputCSV\InputCSV\obj\Debug\InputCSV.csproj.SuggestedBindingRedirects.cache
+D:\ST_C_ sharp\InputCSV\InputCSV\obj\Debug\InputCSV.Form1.resources
+D:\ST_C_ sharp\InputCSV\InputCSV\obj\Debug\InputCSV.Properties.Resources.resources
+D:\ST_C_ sharp\InputCSV\InputCSV\obj\Debug\InputCSV.csproj.GenerateResource.cache
+D:\ST_C_ sharp\InputCSV\InputCSV\obj\Debug\InputCSV.csproj.CoreCompileInputs.cache
+D:\ST_C_ sharp\InputCSV\InputCSV\bin\Debug\InputCSV.exe.config
+D:\ST_C_ sharp\InputCSV\InputCSV\bin\Debug\InputCSV.exe
+D:\ST_C_ sharp\InputCSV\InputCSV\bin\Debug\InputCSV.pdb
+D:\ST_C_ sharp\InputCSV\InputCSV\obj\Debug\InputCSV.exe
+D:\ST_C_ sharp\InputCSV\InputCSV\obj\Debug\InputCSV.pdb
